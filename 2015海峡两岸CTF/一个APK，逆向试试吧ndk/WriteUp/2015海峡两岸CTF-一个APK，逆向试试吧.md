@@ -1,7 +1,8 @@
 # 2015海峡两岸CTF-一个APK，逆向试试吧
 
-**Author：wnagzihxain
-Mail：tudouboom@163.com**
+**Author：wnagzihxain**
+
+**Mail：tudouboom@163.com**
 
 ## 0x00 前言
 一道比较简单的题目
