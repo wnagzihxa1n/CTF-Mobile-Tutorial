@@ -1,0 +1,17 @@
+16字节输入字符串：xxxxxxxxxxxxxxxx
+
+先计算前8字节的数据存入s2
+i = 0;
+do {
+	s[i] = input_Reg_chars[i] - i;
+	i++;
+} while(i != 8);
+
+.data:00004004 A5 28 00 00 seed            DCD aQflmnFh            ; DATA XREF: Java_com_testFlag+64o
+.data:00004004                                                     ; __init_my+Co ...
+.data:00004004                                                     ; "QflMn`fH"
+
+
+
+
+
