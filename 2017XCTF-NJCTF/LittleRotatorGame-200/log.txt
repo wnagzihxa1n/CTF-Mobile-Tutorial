@@ -1,0 +1,1 @@
+03-26 06:26:27.648: I/an-activity(16735): The flag is:njctf{PvrNa7iv3Al1}

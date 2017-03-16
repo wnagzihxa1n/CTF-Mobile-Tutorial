@@ -16,3 +16,4 @@
 2017XCTF&NJCTF：
 - [SafeBox-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017XCTF-NJCTF/SafeBox-100)
 - [easycrack-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017XCTF-NJCTF/easycrack-100)
+- [LittleRotatorGame-200](https://github.com/toToCW/CTF-Mobile/tree/master/2017XCTF-NJCTF/LittleRotatorGame)
