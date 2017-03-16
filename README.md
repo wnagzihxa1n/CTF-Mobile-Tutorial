@@ -14,5 +14,5 @@
  - [LoopAndLoop-100](https://github.com/toToCW/CTF-Mobile/tree/master/2016AliCTF/LoopAndLoop-100)
 
 2017XCTF&NJCTF：
-- [SafeBox-100](https://github.com/toToCW/CTF-Mobile/tree/master/SafeBox-100)
-- [easycrack-100](https://github.com/toToCW/CTF-Mobile/tree/master/easycrack-100)
+- [SafeBox-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017XCTF-NJCTF/SafeBox-100)
+- [easycrack-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017XCTF-NJCTF/easycrack-100)
