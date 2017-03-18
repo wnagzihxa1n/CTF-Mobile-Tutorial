@@ -4,6 +4,8 @@
 
 **Mail：tudouboom@163.com**
 
+### 说明：正在抓紧写WriteUp中，写完的会连同APK一起传上来
+
 ### A list of Android CrackMes
 
 2015海峡两岸CTF：
