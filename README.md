@@ -13,6 +13,7 @@
 
 20150CTF：
 - [vezel-100](https://github.com/toToCW/CTF-Mobile/tree/master/20150CTF/vezel-100)
+- [simple-150](https://github.com/toToCW/CTF-Mobile/tree/master/20150CTF/simple-150)
 
 2016AliCTF：
 - [Timer-50](https://github.com/toToCW/CTF-Mobile/tree/master/2016AliCTF/Timer-50)
