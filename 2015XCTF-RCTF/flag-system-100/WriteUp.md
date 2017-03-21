@@ -213,7 +213,7 @@ https://github.com/nelenkov/android-backup-extractor
 
 解压出了文件之后，解密`BOOKS.db`是一个大问题
 
-作为一个开发者，第一想法是写个APP，用sqkcipher库去解密给的`BOOKS.db`
+作为一个开发者，第一想法是写个APP，用sqlcipher库去解密给的`BOOKS.db`
 
 但是莫名不想写
 
