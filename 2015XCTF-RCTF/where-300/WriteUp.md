@@ -148,7 +148,7 @@ seed-ofb
 
 我们把最后面的`aes-128-cbc`删掉，使用openssl解密
 ```
-[root@tot0c /home/wnagzihxain]# openssl enc -aes-128-cbc -d -k "Misc@inf0#fjhx11" -nosalt -in encDexBody -out decDexBody
+[root@tot0c /home/wnagzihxain]# openssl aes-128-cbc -d -k "Misc@inf0#fjhx11" -nosalt -in encDexBody -out decDexBody
 ```
 
 解密后的数据就很漂亮了
