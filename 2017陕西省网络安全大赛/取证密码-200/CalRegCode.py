@@ -1,0 +1,10 @@
+# coding:utf-8
+
+RegCode_Cal = []
+Key = list("yInS567!bcNOUV8vwCDefXYZadoPQRGx13ghTpqrsHklm2EFtuJKLzMijAB094W")
+dest = [0x39, 0x20, 0x07, 0x0A, 0x20, 0x29, 0x13, 0x02, 0x3A, 0xC, 0x11, 0x31, 0x3B, 0x0B, 0x07]
+
+for i in range(len(dest)):
+	RegCode_Cal.append(Key[dest[i]])
+
+print "".join(RegCode_Cal)
