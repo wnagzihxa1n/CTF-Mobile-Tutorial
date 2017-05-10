@@ -43,5 +43,5 @@
 - [简单到不行-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017ISCC/简单到不行-100)
 
 2017SSCTF：
-- [加密勒索软件-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017SSCTF加密勒索软件-100)
+- [加密勒索软件-100](https://github.com/toToCW/CTF-Mobile/tree/master/2017SSCTF/加密勒索软件-100)
 - [Login-200](https://github.com/toToCW/CTF-Mobile/tree/master/2017SSCTF/Login-200)
