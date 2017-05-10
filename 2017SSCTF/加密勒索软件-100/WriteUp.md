@@ -334,13 +334,15 @@ Find it : ctf1_decode_162357.xlsx
 Find it : ctf1_decode_179351.xlsx
 ```
 
-同时生成9个文件，`ctf1_decode_112355.xlsx`是可以打开的
+同时生成9个文件，`ctf1_decode_111355.xlsx`开始9个文件都是可以打开的
 
 打开后有一张图片
 
 ![](Image/6.png)
 
 Flag : SSCTF{G0odJo13!}
+
+这题不知道是不是因为巧合，`0x400`的位置不知道是不是凑巧没有破坏文件格式，所以都能打开
 
 ## 0x02 小结
 再次感谢沐师傅在赛后提供题目
