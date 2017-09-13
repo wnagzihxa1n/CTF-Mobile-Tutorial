@@ -25,7 +25,7 @@ for(dex_addr = 0xA357D000; dex_addr < 0xA35DE000; dex_addr++)
 
 再次动态调试脱壳，这次我们找到校验函数，单步跟下去看看具体是什么情况
 
-我们需要先找到校验函数的地址，使用给`dvmUserJNIBridge`函数下断点的方法
+我们需要先找到校验函数的地址，使用给`dvmUseJNIBridge`函数下断点的方法
 
 ![](Image/4.png)
 
