@@ -1,0 +1,4 @@
+﻿  main.c
+e:\安全\android知识框架\android crackme\2014 naga&piowind app应用攻防竞赛\crackme.l4.sign\desreg2\main.c(65): warning C4101: “i”: 未引用的局部变量
+  DesDecrypt.vcxproj -> C:\Users\wangz\Desktop\DesDecrypt\Debug\DesDecrypt.exe
+  DesDecrypt.vcxproj -> C:\Users\wangz\Desktop\DesDecrypt\Debug\DesDecrypt.pdb (Full PDB)

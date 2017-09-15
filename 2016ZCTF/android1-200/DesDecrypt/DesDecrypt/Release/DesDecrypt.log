@@ -1,0 +1,7 @@
+﻿  main.c
+E:\安全\Android知识框架\Android CrackMe\2014 NAGA&PIOWIND APP应用攻防竞赛\crackme.l4.sign\DesReg2\main.c(38): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DesDecrypt.vcxproj -> C:\Users\wangz\Desktop\DesDecrypt\Release\DesDecrypt.exe
+  DesDecrypt.vcxproj -> C:\Users\wangz\Desktop\DesDecrypt\Release\DesDecrypt.pdb (Full PDB)
