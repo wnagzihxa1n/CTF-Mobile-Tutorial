@@ -1,7 +1,7 @@
 # 2015XCTF-RCTF
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2015XCTF福州站的第一道Mobile题，同时也是RCTF的题目，100分

@@ -1,7 +1,7 @@
 # 2015XCTF&RCTF-where
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2015XCTF福州站的第二道Mobile题，分值200

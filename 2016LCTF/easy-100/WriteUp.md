@@ -1,7 +1,7 @@
 # 2016LCTF-easy
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2016年LCTF的第一道Mobile题，分值100

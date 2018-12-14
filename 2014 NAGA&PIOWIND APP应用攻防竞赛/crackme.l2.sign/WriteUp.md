@@ -1,7 +1,7 @@
 # NAGA & PIOWIND 2014 APP应用攻防竞赛第二阶段第二题题解
 
 **Author：wnagzihxa1n
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 Java层加了不知道是什么的花指令
 

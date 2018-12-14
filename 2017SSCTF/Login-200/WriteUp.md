@@ -1,7 +1,7 @@
 # 2017SSCTF-Login
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x01 前言
 感谢沐师傅在赛后提供题目

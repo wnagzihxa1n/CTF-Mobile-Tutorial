@@ -1,7 +1,7 @@
 # 2017XCTF&NJCTF-easycrack
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2017XCTF南京站线上赛的题目，同时也是2017NJCTF的题目，可以在XCTF OJ上面找到，分值100

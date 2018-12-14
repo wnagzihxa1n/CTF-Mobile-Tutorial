@@ -2,7 +2,7 @@
 
 **Author：wnagzihxain**
 
-**Mail：tudouboom@163.com**
+**Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 一道比较简单的题目

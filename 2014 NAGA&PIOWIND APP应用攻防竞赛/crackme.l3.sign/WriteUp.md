@@ -1,7 +1,7 @@
 # NAGA & PIOWIND 2014 APP应用攻防竞赛第二阶段第三题题解
 
 **Author：wnagzihxa1n
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 一开始用模拟器跑起来就崩溃，我以为是模拟器系统版本的问题，后来看了配置文件，发现没有问题，猜测可能是有反调试，第三题了应该出现反调试了
 

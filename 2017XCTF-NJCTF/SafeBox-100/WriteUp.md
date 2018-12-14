@@ -1,7 +1,7 @@
 # 2017XCTF&NJCTF-SafeBox
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2017XCTF&NJCTF线上赛的Mobile题，纯Java层，分值100，可以在XCTF OJ上找到

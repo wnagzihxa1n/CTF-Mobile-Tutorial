@@ -1,7 +1,7 @@
 # 20150CTF-simple
 
 **Author：wnagzihxain
-Mail：tudouboom@163.com**
+Mail：wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 20150CTF的Mobile第二题，分值150
