@@ -1,7 +1,7 @@
 # CTF-Mobile
 
 **Author：wnagzihxa1n**
-**Mail：tudouboom@163.com**
+**Mail：wnagzihxa1n@gmail.com**
 
 作为一个CTF弱鸡，每次比赛除了湿敷们吊打，就是被湿敷们吊打
 
