@@ -1,7 +1,7 @@
 # NAGA & PIOWIND 2014 APP应用攻防竞赛第二阶段第一题题解
 
-**Author：wnagzihxa1n
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 Java层用于传字符串，输入用户名和密码到Native层校验
 ```
