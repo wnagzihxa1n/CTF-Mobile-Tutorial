@@ -1,7 +1,7 @@
 # 2015XCTF-RCTF
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2015XCTF福州站的第一道Mobile题，同时也是RCTF的题目，100分
@@ -9,7 +9,7 @@ Mail：wnagzihxa1n@gmail.com**
 ## 0x01 分析
 第一个坑，先判断这是个啥玩意，file没看出来，但是应该是有的
 ```
-wnagzihxain@toT0C:~$ file 2e204fe0ec33b1689f1c47bd60a9770c
+wnagzihxa1n@wnagzihxa1n:~$ file 2e204fe0ec33b1689f1c47bd60a9770c
 2e204fe0ec33b1689f1c47bd60a9770c: data
 ```
 
@@ -17,18 +17,18 @@ wnagzihxain@toT0C:~$ file 2e204fe0ec33b1689f1c47bd60a9770c
 
 能搜到搞这玩意的文章确实是不多，这里根据外国网友提供的方法，我们来一发
 ```
-wnagzihxain@toT0C:~$ dd if=2e204fe0ec33b1689f1c47bd60a9770c.ab bs=1 skip=24 of=compressed
+wnagzihxa1n@wnagzihxa1n:~$ dd if=2e204fe0ec33b1689f1c47bd60a9770c.ab bs=1 skip=24 of=compressed
 记录了8977280+0 的读入
 记录了8977280+0 的写出
 8977280 bytes (9.0 MB, 8.6 MiB) copied, 96.922 s, 92.6 kB/s
-wnagzihxain@toT0C:~$ printf "\x1f\x8b\x08\x00\x00\x00\x00\x00" | cat - compressed | gunzip -c > decompressed.tar
+wnagzihxa1n@wnagzihxa1n:~$ printf "\x1f\x8b\x08\x00\x00\x00\x00\x00" | cat - compressed | gunzip -c > decompressed.tar
 gzip: stdin: unexpected end of file
-wnagzihxain@toT0C:~$ tar xf decompressed.tar 
+wnagzihxa1n@wnagzihxa1n:~$ tar xf decompressed.tar 
 ```
 
 解压生成一个`apps`文件夹，查看一下文件树，发现有一个`BOOKS.db`，这一定是个关键文件
 ```
-wnagzihxain@toT0C:~$ tree apps
+wnagzihxa1n@wnagzihxa1n:~$ tree apps
 apps
 ├── com.example.mybackup
 │   ├── a
@@ -112,7 +112,7 @@ https://www.zetetic.net/sqlcipher/
 
 然后写代码
 ```
-package com.wnagzihxain.myapplication;
+package com.wnagzihxa1n.myapplication;
 
 import android.os.Bundle;
 import android.app.Activity;
