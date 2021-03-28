@@ -1,7 +1,7 @@
 
 public class MyKeyGen {
     public static void main(String[] args) throws Exception {
-        String userName = "wnagzihxain";
+        String userName = "Your User Name";
         StringBuilder re_userName = new StringBuilder();
         for (int i = 0; i < userName.length() - 2; i += 2) {
             re_userName.append(userName.charAt(i + 1));
