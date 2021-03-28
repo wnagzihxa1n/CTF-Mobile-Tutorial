@@ -13,7 +13,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxain/demo/Demo.java">
+        <entry file="file://$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxa1n/demo/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="394">
               <caret line="76" column="69" lean-forward="true" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="69" />
@@ -44,7 +44,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxain/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxa1n/demo/Demo.java" />
       </list>
     </option>
   </component>
@@ -110,11 +110,11 @@
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.wnagzihxain.demo.*" />
+          <option name="PATTERN" value="com.wnagzihxa1n.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.wnagzihxain.demo.Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.wnagzihxa1n.demo.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../S_BOX_Judge" />
@@ -267,7 +267,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxain/demo/Demo.java">
+    <entry file="file://$PROJECT_DIR$/../S_BOX_Judge/src/com/wnagzihxa1n/demo/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="76" column="69" lean-forward="true" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="69" />

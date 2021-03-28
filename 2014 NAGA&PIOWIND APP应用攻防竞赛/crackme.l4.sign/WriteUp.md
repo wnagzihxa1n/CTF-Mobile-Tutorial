@@ -1,7 +1,7 @@
 # NAGA & PIOWIND 2014 APP应用攻防竞赛第二阶段第四题题解
 
-**Author：wnagzihxa1n
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 Java层比较简单
 
