@@ -1,7 +1,7 @@
 # 2015XCTF&RCTF-where
 
 **Author: wnagzihxa1n
-E-Mail：wnagzihxa1n@gmail.com**
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2015XCTF福州站的第二道Mobile题，分值200
@@ -82,7 +82,7 @@ Oops，出题的大佬良心发现故意来个简单的？？？？？？
 
 搞过openssl的同学肯定记得这个，虽然到现在我也不知道到底`help`是哪个命令
 ```
-[root@tot0c /home/wnagzihxa1n]# openssl -h
+[root@wnagzihxa1n /home/wnagzihxa1n]# openssl -h
 openssl:Error: '-h' is an invalid command.
 
 Standard commands
@@ -124,7 +124,7 @@ seed-ofb
 
 我们把最后面的`aes-128-cbc`删掉，使用openssl解密
 ```
-[root@tot0c /home/wnagzihxa1n]# openssl aes-128-cbc -d -k "Misc@inf0#fjhx11" -nosalt -in encDexBody -out decDexBody
+[root@wnagzihxa1n /home/wnagzihxa1n]# openssl aes-128-cbc -d -k "Misc@inf0#fjhx11" -nosalt -in encDexBody -out decDexBody
 ```
 
 解密后的数据就很漂亮了
