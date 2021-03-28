@@ -1,7 +1,7 @@
 # 2017陕西省网络安全大赛Mobile第二题
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 混淆掉了一些函数名，耐心，耐心，耐心~~~
