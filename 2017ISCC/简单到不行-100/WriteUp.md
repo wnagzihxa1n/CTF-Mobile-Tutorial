@@ -1,7 +1,7 @@
 # 2017ISCC全国大学生信息安全与对抗技术竞赛Mobile第一题
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 后天物理考试，打场CTF放松一下
