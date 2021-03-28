@@ -1,7 +1,7 @@
 # 2017XCTF&NJCTF-LittleRotatorGame
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2017XCTF南京站线上赛同时也是NJCTF的Mobile题，一度做的我怀疑人生，题目可以在XCTF OJ上面找到
