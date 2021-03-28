@@ -1,7 +1,7 @@
 # 2016AliCTF-LoopAndLoop
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2016年阿里CTF的第二道Mobile题，分值100
