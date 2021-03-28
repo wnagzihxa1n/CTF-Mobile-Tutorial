@@ -1,7 +1,7 @@
 # 2016LCTF-easyeasy
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2016年LCTF的第二道Mobile题，分值200，有言在先，本百分之九十九靠着自己多年酱油选手的灵感
