@@ -1,7 +1,7 @@
 # NAGA & PIOWIND 2014 APP应用攻防竞赛第二阶段第二题题解
 
-**Author：wnagzihxa1n
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 Java层加了不知道是什么的花指令
 
@@ -215,7 +215,7 @@ Base64解码
 ```
 public class MyKeyGen {
     public static void main(String[] args) throws Exception {
-        String userName = "wnagzihxain";
+        String userName = "Your User Name";
         StringBuilder re_userName = new StringBuilder(userName).reverse();
         StringBuilder temp = new StringBuilder(Base64.getBase64(re_userName.toString()));
         System.out.println(temp);

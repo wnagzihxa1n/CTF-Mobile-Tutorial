@@ -1,7 +1,7 @@
 
 public class MyKeyGen {
     public static void main(String[] args) throws Exception {
-        String userName = "wnagzihxain";
+        String userName = "Your User Name";
         StringBuilder re_userName = new StringBuilder(userName).reverse();
         StringBuilder temp = new StringBuilder(Base64.getBase64(re_userName.toString()));
         System.out.println(temp);
