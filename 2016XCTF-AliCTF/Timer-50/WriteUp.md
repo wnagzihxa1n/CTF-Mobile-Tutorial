@@ -1,7 +1,7 @@
 # 2016AliCTF-Timer
 
-**Author：wnagzihxain
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 ## 0x00 前言
 2016年阿里CTF的第一道Mobile题，分值50
@@ -84,7 +84,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.wnagzihxain.demo.R;
+import com.wnagzihxa1n.demo.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 //        Toast.makeText(this, stringFromJNI2(1616384), Toast.LENGTH_LONG).show();
-        Log.i("toT0C", stringFromJNI2(1616384));
+        Log.i("wnagzihxa1n", stringFromJNI2(1616384));
     }
 }
 ```
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
 
 跑起来，输出Flag
 ```
-03-28 09:02:21.066 25084-25084/com.wnagzihxain.demo I/toT0C: Y0vAr3TimerMa3te7
+03-28 09:02:21.066 25084-25084/com.wnagzihxa1n.demo I/wnagzihxa1n: Y0vAr3TimerMa3te7
 ```
 
 ## 0x02 小结
