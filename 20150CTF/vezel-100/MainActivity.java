@@ -1,4 +1,4 @@
-package com.wnagzihxain.myapplication;
+package com.wnagzihxa1n.myapplication;
 
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 /************** 得到应用签名 **************/
                 String signature = builder.toString();
-                Log.i("toT0C", signature);
+                Log.i("wnagzihxa1n", signature);
             } catch (PackageManager.NameNotFoundException e) {
                 e.printStackTrace();
             }
