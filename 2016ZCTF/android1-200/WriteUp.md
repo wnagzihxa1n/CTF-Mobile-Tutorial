@@ -1,7 +1,7 @@
 # 2016ZCTF-android1-200题解
 
-**Author：wnagzihxa1n
-Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n
+E-Mail: wnagzihxa1n@gmail.com**
 
 Java层的代码比常规的CM多了不少
 
@@ -138,7 +138,7 @@ public static byte[] encrypt(byte[] datasource, String password) {
 
 那么我们可以直接读取`flag_bin`文件，使用秘钥`zctf2016`进行解密，从而查看密码是多少
 ```
-package com.wnagzihxain.demo;
+package com.wnagzihxa1n.demo;
 
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;

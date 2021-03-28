@@ -13,7 +13,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxain/demo/Demo.java">
+        <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxa1n/demo/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
@@ -46,7 +46,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxain/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxa1n/demo/Demo.java" />
       </list>
     </option>
   </component>
@@ -118,11 +118,11 @@
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.wnagzihxain.demo.*" />
+          <option name="PATTERN" value="com.wnagzihxa1n.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.wnagzihxain.demo.Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.wnagzihxa1n.demo.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DecryptFlagBinFile" />
@@ -274,7 +274,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxain/demo/Demo.java">
+    <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxa1n/demo/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -284,7 +284,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxain/demo/Demo.java">
+    <entry file="file://$PROJECT_DIR$/../DecryptFlagBinFile/src/com/wnagzihxa1n/demo/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
