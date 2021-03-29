@@ -1,4 +1,4 @@
-# CTF-Mobile
+# CTF Mobile Tutorial
 
 **Author: wnagzihxa1n**
 **E-Mail: wnagzihxa1n@gmail.com**
