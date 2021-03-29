@@ -1,8 +1,6 @@
 # CTF-Mobile
 
-**Author：wnagzihxa1n**
-**Mail：wnagzihxa1n@gmail.com**
+**Author: wnagzihxa1n**
+**E-Mail: wnagzihxa1n@gmail.com**
 
-作为一个CTF弱鸡，每次比赛除了湿敷们吊打，就是被湿敷们吊打
-
-好在比赛的时候收集了不少的题目，痛定思痛，努力学习，争取以后被湿敷们轻点吊打
+这些年我参与的一些CTF比赛里Mobile部分的解题思路以及解题文件，希望对新来的同学们有帮助，有问题可以随时联系我
